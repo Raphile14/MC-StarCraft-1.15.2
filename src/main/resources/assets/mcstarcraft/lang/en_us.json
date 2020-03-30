@@ -1,0 +1,28 @@
+{
+	"itemGroup.zerg": "MCStarCraft: Zerg",
+	"itemGroup.terran": "MCStarCraft: Terran",
+	"itemGroup.protoss": "MCStarCraft: Protoss",
+	
+	"item.mcstarcraft.zerg_larva_egg": "Zerg Larva Egg",
+	"item.mcstarcraft.zerg_egg_egg": "Zerg Egg Egg",
+	"item.mcstarcraft.zerg_drone_egg": "Zerg Drone Egg",
+	"item.mcstarcraft.zerg_overlord_egg": "Zerg Overlord Egg",
+	"item.mcstarcraft.zerg_zergling_egg": "Zerg Zergling Egg",
+	"item.mcstarcraft.zerg_queen_egg": "Zerg Queen Egg",
+	"item.mcstarcraft.zerg_roach_egg": "Zerg Roach Egg",
+	"item.mcstarcraft.zerg_overseer_egg": "Zerg Overseer Egg",
+	"item.mcstarcraft.zerg_ravager_egg": "Zerg Ravager Egg",
+	"item.mcstarcraft.zerg_baneling_egg": "Zerg Baneling Egg",
+	"item.mcstarcraft.zerg_infestor_egg": "Zerg Infestor Egg",
+	"item.mcstarcraft.zerg_swarm_host_egg": "Zerg Swarm Host Egg",
+	"item.mcstarcraft.zerg_hydralisk_egg": "Zerg Hydralisk Egg",
+	"item.mcstarcraft.zerg_mutalisk_egg": "Zerg Mutalisk Egg",
+	"item.mcstarcraft.zerg_corruptor_egg": "Zerg Corruptor Egg",
+	"item.mcstarcraft.zerg_viper_egg": "Zerg Viper Egg",
+	"item.mcstarcraft.zerg_lurker_egg": "Zerg Lurker Egg",
+	"item.mcstarcraft.zerg_ultralisk_egg": "Zerg Ultralisk Egg",
+	"item.mcstarcraft.zerg_broodlord_egg": "Zerg Broodlord Egg",
+	
+	"block.mcstarcraft.zerg_creep": "Zerg Creep"
+	
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "mcstarcraft:blocks/zerg_creep"
+	}
+}

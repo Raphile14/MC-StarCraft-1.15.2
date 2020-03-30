@@ -1,0 +1,24 @@
+Authors Raphael Dalangin and Bon Jovi Montes
+
+Alpha 1.5 (03-30-2020)
+- Change Item init to Deferred Registry
+- Seems to not work on Blocks
+- Now Able to Summon Zerg Eggs (no texture yet)
+- Code Rework
+
+Alpha 1.4 (03-29-2020)
+- Updated Mappings
+- Whole Mod File Uploaded
+
+Alpha 1.3 (03-29-2020)
+- Creep Block can temporarily be harvested
+
+Alpha 1.2(03-28-2020)
+- Added Zerg Creep Block
+- Added Item Groups for Zerg, Terran, and Protoss
+
+Alpha 1.1 (03-28-2020)
+- Added Spawn Eggs for Zerg Mobs with Texture
+
+Alpha 1.0 (03-28-2020)
+- Initialized Mod Project
